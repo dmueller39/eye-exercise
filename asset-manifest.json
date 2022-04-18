@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eye-exercise/static/css/main.29209a04.css",
-    "main.js": "/eye-exercise/static/js/main.ea4a7cd0.js",
+    "main.css": "/eye-exercise/static/css/main.f23d11ce.css",
+    "main.js": "/eye-exercise/static/js/main.8382cb5e.js",
     "static/js/787.8b9e0273.chunk.js": "/eye-exercise/static/js/787.8b9e0273.chunk.js",
     "static/media/exercise_graphic.svg": "/eye-exercise/static/media/exercise_graphic.71c04b1cd0a423843f27a646531c1ace.svg",
     "index.html": "/eye-exercise/index.html",
-    "main.29209a04.css.map": "/eye-exercise/static/css/main.29209a04.css.map",
-    "main.ea4a7cd0.js.map": "/eye-exercise/static/js/main.ea4a7cd0.js.map",
+    "main.f23d11ce.css.map": "/eye-exercise/static/css/main.f23d11ce.css.map",
+    "main.8382cb5e.js.map": "/eye-exercise/static/js/main.8382cb5e.js.map",
     "787.8b9e0273.chunk.js.map": "/eye-exercise/static/js/787.8b9e0273.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29209a04.css",
-    "static/js/main.ea4a7cd0.js"
+    "static/css/main.f23d11ce.css",
+    "static/js/main.8382cb5e.js"
   ]
 }
