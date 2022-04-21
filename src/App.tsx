@@ -1,6 +1,9 @@
 import React, { useState, useEffect } from "react";
 import logo from "./exercise_graphic.svg";
 import "./App.css";
+import NoSleep from "nosleep.js";
+
+var noSleep = new NoSleep();
 
 function Counter({
   onDone,
@@ -43,6 +46,7 @@ function App() {
         const c = Math.ceil(30.0 - (Date.now() - startTime) / 1000);
         setCounter(c);
         if (c <= 0) {
+          noSleep.disable();
           setIsComplete(true);
         }
       }
@@ -57,6 +61,7 @@ function App() {
     }
   };
   const onStart = () => {
+    noSleep.enable();
     setStartTime(Date.now());
     setIsStarted(true);
   };
