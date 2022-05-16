@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/eye-exercise/static/css/main.29f004e6.css",
-    "main.js": "/eye-exercise/static/js/main.217f527e.js",
+    "main.js": "/eye-exercise/static/js/main.80c576fd.js",
     "static/js/787.8b9e0273.chunk.js": "/eye-exercise/static/js/787.8b9e0273.chunk.js",
     "static/media/exercise_graphic.svg": "/eye-exercise/static/media/exercise_graphic.71c04b1cd0a423843f27a646531c1ace.svg",
     "index.html": "/eye-exercise/index.html",
     "main.29f004e6.css.map": "/eye-exercise/static/css/main.29f004e6.css.map",
-    "main.217f527e.js.map": "/eye-exercise/static/js/main.217f527e.js.map",
+    "main.80c576fd.js.map": "/eye-exercise/static/js/main.80c576fd.js.map",
     "787.8b9e0273.chunk.js.map": "/eye-exercise/static/js/787.8b9e0273.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29f004e6.css",
-    "static/js/main.217f527e.js"
+    "static/js/main.80c576fd.js"
   ]
 }
